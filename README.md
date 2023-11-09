@@ -15,22 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👽 he/him/his
-- 🚀 Lead QA Engineer
+- 🚀 Manager, QA Engineering
 - 🦊 I’m currently working on [MetaMask](https://github.com/MetaMask/metamask-extension) for ConsenSys
 - 🌱 I’m currently improving my Blockchain knowledge
 - 💬 Ask me about Software Testing
 - ☕️ Let's connect on LinkedIn [@PeterYinusa](https://www.linkedin.com/in/peteryinusa/)
 
-<details><summary>👨🏾‍💻 Open source contributions</summary>
+👨🏾‍💻 Open source contributions
   
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 
 - [rbardini/jest-it-up](https://github.com/rbardini/jest-it-up) - 🌐📈 Automatically bump up global Jest thresholds whenever coverage goes above them
-</details>
 
-<details><summary>🎤 Speaking engagements</summary>
+🎤 Speaking engagements
 
--  🇺🇸 Bitcoin Builders Conference, Miami, May 2023 - [Overcoming the Complexities of Testing a Cryptocurrency Wallet](https://speakerdeck.com/peter_yinusa/overcoming-the-complexities-of-testing-a-cryptocurrency-wallet)
+- 🇺🇸 Bitcoin Builders Conference, Miami, May 2023 - Overcoming the Complexities of Testing a Cryptocurrency Wallet 
+        
+    - 🔗 [YouTube](https://www.youtube.com/watch?v=vzgZqezLAN0)
+        
+    - 🔗 [Speaker Deck](https://speakerdeck.com/peter_yinusa/overcoming-the-complexities-of-testing-a-cryptocurrency-wallet) 
 
-- 🇳🇱 Test Automation Days, Rotterdam, May 2023 - [The Art of Test Automation for Cryptocurrency Wallets](https://speakerdeck.com/peter_yinusa/the-art-of-test-automation-for-cryptocurrency-wallets)
-</details>
+- 🇳🇱 Test Automation Days, Rotterdam, May 2023 - The Art of Test Automation for Cryptocurrency Wallets
+
+    - 🔗 [Speaker Deck](https://speakerdeck.com/peter_yinusa/the-art-of-test-automation-for-cryptocurrency-wallets)
