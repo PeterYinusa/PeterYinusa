@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 - 🇺🇸 Bitcoin Builders Conference, Miami, May 2023 - Overcoming the Complexities of Testing a Cryptocurrency Wallet 
         
-    - 🔗 [Youtube](https://www.youtube.com/watch?v=vzgZqezLAN0)
+    - 🔗 [YouTube](https://www.youtube.com/watch?v=vzgZqezLAN0)
         
-    - 🔗 [Speakerdeck](https://speakerdeck.com/peter_yinusa/overcoming-the-complexities-of-testing-a-cryptocurrency-wallet) 
+    - 🔗 [Speaker Deck](https://speakerdeck.com/peter_yinusa/overcoming-the-complexities-of-testing-a-cryptocurrency-wallet) 
 
 - 🇳🇱 Test Automation Days, Rotterdam, May 2023 - The Art of Test Automation for Cryptocurrency Wallets
 
-    - 🔗 [Speakerdeck](https://speakerdeck.com/peter_yinusa/the-art-of-test-automation-for-cryptocurrency-wallets)
+    - 🔗 [Speaker Deck](https://speakerdeck.com/peter_yinusa/the-art-of-test-automation-for-cryptocurrency-wallets)
