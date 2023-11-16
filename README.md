@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 🎤 Speaking engagements
 
+- 🇩🇪 Agile Testing Days, Potsdam, Nov 2023 - Overcoming the Complexities of Testing a Cryptocurrency Wallet
+
+    - 🔗 [Speaker Deck](https://speakerdeck.com/peter_yinusa/overcoming-the-complexities-of-testing-a-cryptocurrency-wallet-nov-2023)
+
 - 🇺🇸 Bitcoin Builders Conference, Miami, May 2023 - Overcoming the Complexities of Testing a Cryptocurrency Wallet 
         
     - 🔗 [YouTube](https://www.youtube.com/watch?v=vzgZqezLAN0)
