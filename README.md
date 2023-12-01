@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👽 he/him/his
-- 🚀 Manager, QA Engineering
-- 🦊 I’m currently working on [MetaMask](https://github.com/MetaMask/metamask-extension) for ConsenSys
+- 👨🏽‍💻 QA Engineer Consultant
 - 🌱 I’m currently improving my Blockchain knowledge
 - 💬 Ask me about Software Testing
 - ☕️ Let's connect on LinkedIn [@PeterYinusa](https://www.linkedin.com/in/peteryinusa/)
