@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👽 he/him/his
 - 👨🏽‍💻 QA Engineer Consultant
+- 🕹️ I'm building [DappDriver](https://github.com/assert-equals/DappDriver) for fun in my free time
 - 🌱 I’m currently improving my Blockchain knowledge
 - 💬 Ask me about Software Testing
 - ☕️ Let's connect on LinkedIn [@PeterYinusa](https://www.linkedin.com/in/peteryinusa/)
