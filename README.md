@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 👨🏾‍💻 Open source contributions
   
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites 
+
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 
 - [rbardini/jest-it-up](https://github.com/rbardini/jest-it-up) - 🌐📈 Automatically bump up global Jest thresholds whenever coverage goes above them
